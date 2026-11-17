@@ -313,7 +313,7 @@ h2 em {
   letter-spacing: 1.6px;
 }
 
-.scroll-note b {
+.scroll-esplora b {
   font-size: 15px;
   margin-left: 12px;
 }
@@ -458,7 +458,7 @@ h2 {
   height: 450px;
 }
 
-.photo-caption {
+.descr-foto {
   position: absolute;
   left: 22px;
   bottom: 20px;
@@ -789,7 +789,7 @@ h2 {
   margin-top: 22px;
 }
 
-.site-footer {
+.footer-proj {
   background: #1b3022;
   color: white;
   padding: 45px 0 22px;
